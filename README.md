@@ -14,7 +14,7 @@
 
 ## About Me
 
-Python developer, with a focus on **Agentic System and backend development**. I build production-ready tools — from intelligent data pipelines to RAG-powered AI assistants — with a bias toward practical impact in emerging markets.
+Python developer, with a focus on **Agentic System**. I build production-ready tools — from intelligent data pipelines to RAG-powered AI assistants — with a bias toward practical impact in emerging markets.
 
 - 🔭 Currently building AI applications using **LangChain, FastAPI, and vector databases**
 - 🌍 Focused on solving local problems with global-standard engineering
